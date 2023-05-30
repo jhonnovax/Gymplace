@@ -2,7 +2,7 @@
 
 <p><b>Gymplace</b> is a website for fitness and overall health through regular exercise and physical activity.</p>
 
-👉 Live Demo: <a href='https://cryptoplace.vercel.app/'>Gymplace Demo</a>
+👉 Live Demo: <a href='https://gymplace-jhonnovax.vercel.app/'>Gymplace Demo</a>
 
 <h3>Tech Stack:</h3>
 
