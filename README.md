@@ -1,6 +1,6 @@
 <h2>About the project</h2>
 
-<p><b>Gymplace</b> is a website for fitness and overall health through regular exercise and physical activity.</p>
+<p><b>Gymplace</b> is a web app for fitness and overall health through regular exercise and physical activity.</p>
 
 👉 Live Demo: <a href='https://gymplace-jhonnovax.vercel.app/'>Gymplace Demo</a>
 
