@@ -35,7 +35,7 @@ function Footer() {
                 ></i>
               </div>
               <p className="text-[16px] font-medium text-[#646464]">
-                Privacy Policy | © {new Date().getFullYear()} Gymate <br />{" "}
+                Privacy Policy | © {new Date().getFullYear()} Gymplace <br />{" "}
                 Design by{" "}
                 <a
                   target="_blank"
